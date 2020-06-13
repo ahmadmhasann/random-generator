@@ -43,7 +43,6 @@ flutter:
 
   assets:
     - images/
-    - assets/audio/
   fonts:
     - family: Sans
       fonts:

@@ -63,7 +63,7 @@ class _diceState extends State<dice> {
                         onPressed: (){
                           updateDice();
                         },
-                        child: Image.asset('images/dice$leftDice.png'),
+                        child: Image.asset('images/dice$leftDice.jpg'),
                       ),
                     ),
                     Expanded(
@@ -71,7 +71,7 @@ class _diceState extends State<dice> {
                         onPressed: (){
                           updateDice();
                         },
-                        child: Image.asset('images/dice$rightDice.png'),
+                        child: Image.asset('images/dice$rightDice.jpg'),
                       ),
                     ),
                   ],
